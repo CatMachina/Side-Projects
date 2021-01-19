@@ -1,0 +1,53 @@
+body { }
+
+@font-face
+{
+    font-family: 'coolFont';
+    src: url(https://www.fontspace.com/get/family/j86d7);
+}
+
+h1
+{
+    font-family: 'coolFont';
+}
+
+h3
+{
+    font-family: "Bahnschrift Light", Arial, sans-serif;
+}
+
+.navbar
+{
+    display: block;
+}
+
+.menu
+{
+    text-align: center;
+}
+
+.frame
+{
+    display: inline-block;
+    margin: 25px 35px;
+}
+
+.portrait
+{
+    border-style: solid;
+}
+
+.info
+{
+    text-align: center;
+}
+
+.alignLeft
+{
+   float: left;
+}
+
+.alignRight
+{
+   float: right;
+}
